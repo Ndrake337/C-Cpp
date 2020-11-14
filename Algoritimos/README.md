@@ -1,4 +1,4 @@
-#Comparador de Eficácia dos Algoritimos de Ordenação existentes
+# Comparador de Eficácia dos Algoritimos de Ordenação existentes
 
 Projeto Comparativo entre alguns algoritimos de Ordenação existentes no qual foram colocados vetores gerados via código e armazenado em um arquivo .txt e verificamos através do tempo de execução qual algoritimo obteve um melhor desenpenho, o mesmo projeto foi feito em parceria com dois colegas do meu curso: Erick Kei, e Rafael Prado, que auxiliaram no desenvolvimento do código, teste e criação do relatório
 
